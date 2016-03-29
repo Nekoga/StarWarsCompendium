@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StarWarsCompendium</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opciones</string>
+    <string name="action_about">Acerca de</string>
+    <string name="drawer_open">Abrir menu lateral</string>
+    <string name="drawer_close">Cerrar menu lateral</string>
+
+</resources>
